@@ -1,2 +1,2 @@
 # git-training
-Belajar Git
+Belajar Git bersama Yudi, Alviyan, Setyo
